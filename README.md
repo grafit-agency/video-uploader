@@ -23,3 +23,9 @@ Install the required libraries:
 
 ```bash
 pip install webflow python-dotenv requests
+```
+
+## Command example
+```bash
+python3 main.py video.mp4 --crf 25
+```
